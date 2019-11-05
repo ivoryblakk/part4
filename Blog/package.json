@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/ivoryblakk/part4#readme",
   "dependencies": {
-    "mongoose": "^5.6.9",
+    "mongoose": "^5.7.5",
     "cors": "^2.8.5",
     "dotenv": "^8.0.0",
     "express": "^4.17.1",
